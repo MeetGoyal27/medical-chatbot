@@ -9,4 +9,3 @@ langchain-openai==0.3.24
 langchain-groq
 langchain-huggingface==0.1.2
 langchain-community==0.3.26
--e .
